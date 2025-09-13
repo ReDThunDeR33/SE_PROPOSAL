@@ -1,5 +1,12 @@
 # Auto detect text files and perform LF normalization
-* text=auto   "branch created by arko"
+<<<<<<< HEAD
+* text=auto   
+"branch created by arko"
 
 
 
+=======
+* text=auto
+
+branch created
+>>>>>>> main
